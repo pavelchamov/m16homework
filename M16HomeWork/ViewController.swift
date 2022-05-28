@@ -12,6 +12,10 @@ class ViewController: UIViewController {
     func printing() {
         print("hello Skillbox")
     }
+    
+    func printing2() {
+        print("commit 1")
+    }
 
     override func viewDidLoad() {
         super.viewDidLoad()
